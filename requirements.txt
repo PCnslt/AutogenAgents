@@ -1,0 +1,18 @@
+dotenv
+requests
+flask
+beautifulsoup4
+pathlib
+streamlit
+pandas
+
+pyautogen
+
+# huggingface_hub 
+# transformers 
+# diffusers 
+# datasets 
+# evaluate 
+# accelerate
+# ipywidgets
+
