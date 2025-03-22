@@ -5,6 +5,7 @@ beautifulsoup4
 pathlib
 streamlit
 pandas
+openai
 
 pyautogen
 
