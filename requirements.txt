@@ -6,8 +6,10 @@ pathlib
 streamlit
 pandas
 openai
-
+matplotlib
+numpy
 pyautogen
+yfinance
 
 # huggingface_hub 
 # transformers 
